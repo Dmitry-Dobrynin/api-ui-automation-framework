@@ -1,4 +1,4 @@
-# test_api_dmitry_dobrynin
+# api-ui-automation-framework
 
 Автотесты для API http://objapi.course.qa-practice.com/object на pytest + requests.
 Покрыты методы GET, POST, PUT, PATCH, DELETE.
